@@ -1,9 +1,19 @@
-### Hi there 👋
+### Hello! My name is Bruno Držanić
+### About me
+I specialize in PHP development with a strong focus on Laravel, complemented by Symfony, Redis, MySQL, Docker, HTML, Sass, and GitLab pipelines, enabling efficient development and deployment of high-quality web applications.
 
----
+**Lead Developer** at [Simple Code Agency](https://simple-code.agency)
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/drzanicbruno/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</div>
+
+### 🚀 Skills
+- **Languages:** PHP, MySql, Redis, JavaScript, HTML/CSS
+- **Frameworks:** Laravel, Symfony, WordPress, Angular
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sc-bruno&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sc-bruno&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **sc-bruno/sc-bruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
