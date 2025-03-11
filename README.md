@@ -3,6 +3,7 @@
 I specialize in PHP development with a strong focus on Laravel, complemented by Symfony, Redis, MySQL, Docker, HTML, Sass, and GitLab pipelines, enabling efficient development and deployment of high-quality web applications.
 
 **Lead Software Engineer (Backend, DevOps)** at [Simple Code Agency](https://simple-code.agency)
+
 **Owner** at [Webico - Web Solutions](https://webico.hr)
 
 <div id="badges">
